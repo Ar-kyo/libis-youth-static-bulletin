@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Libis Youth Static Bulletin",
+    "description": "",
+    "home_page_url": "https://Ar-kyo.github.io/libis-youth-static-bulletin",
+    "feed_url": "https://Ar-kyo.github.io/libis-youth-static-bulletin/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "LOTH ARIEL LINGAD"
+    },
+    "items": [
+        {
+            "id": "https://Ar-kyo.github.io/libis-youth-static-bulletin/libis.html",
+            "url": "https://Ar-kyo.github.io/libis-youth-static-bulletin/libis.html",
+            "title": "libis",
+            "author": {
+                "name": "LOTH ARIEL LINGAD"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-08T18:07:28+08:00",
+            "date_modified": "2026-09-08T18:07:28+08:00"
+        }
+    ]
+}

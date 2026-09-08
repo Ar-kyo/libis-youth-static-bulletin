@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Libis Youth Static Bulletin</title>
+    <link href="https://Ar-kyo.github.io/libis-youth-static-bulletin/feed.xml" rel="self" />
+    <link href="https://Ar-kyo.github.io/libis-youth-static-bulletin" />
+    <updated>2026-09-08T18:07:28+08:00</updated>
+    <author>
+        <name>LOTH ARIEL LINGAD</name>
+    </author>
+    <id>https://Ar-kyo.github.io/libis-youth-static-bulletin</id>
+
+    <entry>
+        <title>libis</title>
+        <author>
+            <name>LOTH ARIEL LINGAD</name>
+        </author>
+        <link href="https://Ar-kyo.github.io/libis-youth-static-bulletin/libis.html"/>
+        <id>https://Ar-kyo.github.io/libis-youth-static-bulletin/libis.html</id>
+
+        <updated>2026-09-08T18:07:28+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

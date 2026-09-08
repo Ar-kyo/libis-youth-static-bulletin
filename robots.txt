@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Ar-kyo.github.io/libis-youth-static-bulletin/sitemap.xml

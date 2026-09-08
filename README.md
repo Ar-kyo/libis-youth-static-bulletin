@@ -1,1 +1,0 @@
-# Libis Youth Static Bulletin
