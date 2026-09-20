@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://Ar-kyo.github.io/libis-youth-static-bulletin/whats-new.html",
+            "url": "https://Ar-kyo.github.io/libis-youth-static-bulletin/whats-new.html",
+            "title": "What&#x27;s New?",
+            "summary": "📢 Barangay Libis Youth Sector Update Posted on September 20, 2026 We are calling all registered youth leaders and active members across all puroks to prepare for our upcoming community development initiatives and collaborative workshops. Please check the Events &amp; Calendar page for exact dates,&hellip;",
+            "content_html": "<div class=\"youth-announcement-post\">\n<h2>📢 Barangay Libis Youth Sector Update</h2>\n<p><em>Posted on September 20, 2026</em></p>\n<p>We are calling all registered youth leaders and active members across all puroks to prepare for our upcoming community development initiatives and collaborative workshops.</p>\n<h3>Key Agenda &amp; Focus Areas:</h3>\n<ul>\n<li><strong>Infrastructure &amp; Clean-Up:</strong> Continuous monitoring of our Purok eco-trails and recycling drives.</li>\n<li><strong>Skill-Building Workshops:</strong> Upcoming digital literacy and leadership seminars at the Barangay Hall.</li>\n<li><strong>Sports &amp; Recreation:</strong> Finalizing team rosters for the inter-purok youth basketball league.</li>\n</ul>\n<p>Please check the <a href=\"https://Ar-kyo.github.io/libis-youth-static-bulletin/events-and-calendar.html\">Events &amp; Calendar</a> page for exact dates, times, and downloadable PDF schedules.</p>\n</div>",
+            "author": {
+                "name": "LOTH ARIEL LINGAD"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-20T23:24:39+08:00",
+            "date_modified": "2026-09-20T23:24:39+08:00"
+        },
+        {
             "id": "https://Ar-kyo.github.io/libis-youth-static-bulletin/attention.html",
             "url": "https://Ar-kyo.github.io/libis-youth-static-bulletin/attention.html",
             "title": "ATTENTION!",
