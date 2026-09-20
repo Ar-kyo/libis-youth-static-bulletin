@@ -3,10 +3,31 @@
     <title>Libis Youth Static Bulletin</title>
     <link href="https://Ar-kyo.github.io/libis-youth-static-bulletin/feed.xml" rel="self" />
     <link href="https://Ar-kyo.github.io/libis-youth-static-bulletin" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2026-09-20T18:56:46+08:00</updated>
     <author>
         <name>LOTH ARIEL LINGAD</name>
     </author>
     <id>https://Ar-kyo.github.io/libis-youth-static-bulletin</id>
 
+    <entry>
+        <title>ATTENTION!</title>
+        <author>
+            <name>LOTH ARIEL LINGAD</name>
+        </author>
+        <link href="https://Ar-kyo.github.io/libis-youth-static-bulletin/attention.html"/>
+        <id>https://Ar-kyo.github.io/libis-youth-static-bulletin/attention.html</id>
+
+        <updated>2026-09-20T18:56:46+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    We are inviting all registered youth residents of Barangay Libis to attend our upcoming general assembly this coming weekend. We will be discussing new community projects, sports league sign-ups, and open youth concerns. Date &amp; Time: September 25, 2026 at 9:00 AM Location: Barangay Libis&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We are inviting all registered youth residents of Barangay Libis to attend our upcoming general assembly this coming weekend. We will be discussing new community projects, sports league sign-ups, and open youth concerns.</p>
+<p><strong>Date &amp; Time:</strong> September 25, 2026 at 9:00 AM<br><strong>Location:</strong> Barangay Libis Covered Court</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

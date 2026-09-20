@@ -10,5 +10,19 @@
         "name": "LOTH ARIEL LINGAD"
     },
     "items": [
+        {
+            "id": "https://Ar-kyo.github.io/libis-youth-static-bulletin/attention.html",
+            "url": "https://Ar-kyo.github.io/libis-youth-static-bulletin/attention.html",
+            "title": "ATTENTION!",
+            "summary": "We are inviting all registered youth residents of Barangay Libis to attend our upcoming general assembly this coming weekend. We will be discussing new community projects, sports league sign-ups, and open youth concerns. Date &amp; Time: September 25, 2026 at 9:00 AM Location: Barangay Libis&hellip;",
+            "content_html": "<p>We are inviting all registered youth residents of Barangay Libis to attend our upcoming general assembly this coming weekend. We will be discussing new community projects, sports league sign-ups, and open youth concerns.</p>\n<p><strong>Date &amp; Time:</strong> September 25, 2026 at 9:00 AM<br><strong>Location:</strong> Barangay Libis Covered Court</p>",
+            "author": {
+                "name": "LOTH ARIEL LINGAD"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-20T18:56:46+08:00",
+            "date_modified": "2026-09-20T18:56:46+08:00"
+        }
     ]
 }
